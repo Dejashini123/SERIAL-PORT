@@ -41,7 +41,7 @@ void main(void)
 
 void main(void)
 {
-    unsigned char msg[] = "PERSYS";
+    unsigned char msg[] = "DEJASHINI";
     unsigned char i;
 
     TMOD = 0x20;      // Timer1 Mode2
